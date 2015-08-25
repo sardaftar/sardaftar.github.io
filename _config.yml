@@ -1,0 +1,7 @@
+auto: true
+markdown: rdiscount
+permalink: /:year/:month/:day/:title
+rdiscount extensions: [smart]
+baseurl: 
+url: http://amir.vakilian.org
+#url: file:///home/mohsen/git/webpages/vakilian.org/amir/_site
